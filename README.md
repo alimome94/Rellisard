@@ -10,6 +10,8 @@ Tengo 23 años y me gusta:
 - Los videojuegos
 - La F1
 - El sushi...
+- La cerveza
+- Escribir 
 
 Uno de mis lemas proviene de una intro del grupo _**Lepoka**_ que decía
 >"No hay genialidad, sin un tanto de locura"
